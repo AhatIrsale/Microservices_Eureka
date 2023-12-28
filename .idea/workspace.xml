@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8a58726-2290-4044-8909-d0c8a36b66e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/voiture/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/Controller/VoitureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/Model/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/Repository/VoitureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/java/com/example/servicevoiture/ServiceVoitureApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voiture/src/test/java/com/example/servicevoiture/ServiceVoitureApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EurekaClient/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/EurekaClient/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EurekaClient/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/EurekaClient/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EurekaClient/src/main/java/com/example/eurekaclient/Service/ClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EurekaClient/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/EurekaClient/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/java/com/example/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/src/main/java/com/example/gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/resources/app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaproject/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaproject/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaproject/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaproject/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2a2j0poND4dhNsklHRPJGZQnWTs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Desktop/Emsi S9/Architectures composants d'entreprises/Tps/Solutions/Tp_Micro_service_global&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8bd4fd8dce65116e54b724af3a2787cb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceVoitureApplication">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EurekaClient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaproject.EurekaprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVoitureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="voiture" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.servicevoiture.ServiceVoitureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8a58726-2290-4044-8909-d0c8a36b66e0" name="Changes" comment="" />
+      <created>1703523349407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703523349407</updated>
+      <workItem from="1703523351100" duration="1975000" />
+      <workItem from="1703525476373" duration="1449000" />
+      <workItem from="1703532439271" duration="8042000" />
+      <workItem from="1703579169930" duration="131000" />
+      <workItem from="1703588613157" duration="2765000" />
+      <workItem from="1703595600781" duration="1715000" />
+      <workItem from="1703666040921" duration="102000" />
+      <workItem from="1703679803898" duration="7267000" />
+      <workItem from="1703687568008" duration="1623000" />
+      <workItem from="1703691026436" duration="6391000" />
+      <workItem from="1703703691765" duration="6647000" />
+      <workItem from="1703711734192" duration="1859000" />
+      <workItem from="1703749542437" duration="18000" />
+      <workItem from="1703774356027" duration="1575000" />
+      <workItem from="1703790045829" duration="838000" />
+      <workItem from="1703796431030" duration="432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

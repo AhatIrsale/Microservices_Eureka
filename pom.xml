@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>controlev2</artifactId>
+    <version>0.0.1</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>EurekaClient</module>
+        <module>eurekaproject</module>
+        <module>Gateway</module>
+        <module>voiture</module>
+    </modules>
+</project>

@@ -1,0 +1,12 @@
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/AhatIrsale/Service_Gateway_SpringCloudRouting.git
+[submodule "eurekaproject"]
+	path = eurekaproject
+	url = https://github.com/AhatIrsale/Eureka_Server.git
+[submodule "service-voiture"]
+	path = service-voiture
+	url = https://github.com/AhatIrsale/Voiture_MicroService.git
+[submodule "EurekaClient"]
+	path = EurekaClient
+	url = https://github.com/AhatIrsale/Eureka_Client.git

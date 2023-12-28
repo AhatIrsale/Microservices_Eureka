@@ -1,0 +1,37 @@
+version: '3'
+services:
+  eureka-project:
+    build:
+      context: ./eurekaproject
+    ports:
+      - "8761:8761"
+
+  service-client:
+    build:
+      context: ./eurekaclient
+    ports:
+      - "8088:8088"
+    depends_on:
+      - eureka-project
+    environment:
+      eureka.client.serviceUrl.defaultZone: http://eureka-project:8761/eureka
+
+  gateway:
+    build:
+      context: ./gateway
+    ports:
+      - "8888:8888"
+    depends_on:
+      - eureka-project
+    environment:
+      eureka.client.serviceUrl.defaultZone: http://eureka-project:8761/eureka
+
+  service-voiture:
+    build:
+      context: ./service-voiture
+    ports:
+      - "8089:8089"
+    depends_on:
+      - eureka-project
+    environment:
+      eureka.client.serviceUrl.defaultZone: http://eureka-project:8761/eureka
